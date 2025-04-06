@@ -1,3 +1,3 @@
 # .github
 
-Docker containers that connect data
+See ./profile/README.md
